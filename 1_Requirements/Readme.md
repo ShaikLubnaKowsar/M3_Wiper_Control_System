@@ -30,5 +30,51 @@ The STM32F407/417 lines are designed for medical, industrial and consumer applic
 
 Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
 
+## 4 W'S
+## WHO DISCOVERED WIPER SYSTEM
+Mark Anderson invented on 1902
+## WHAT IS WIPER SYSTEM
+ Wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
+## WHY WIPER SYSTEM
+To keep the windscreen clean enough to give adequate view at all times.
+## WHEN SHOULD USE WIPER SYSTEM
+The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
+
+## High Level Requirements	Description
+1	Programming language(C language)
+2	Arm based microcontroller(STM32F40VGT6)
+3	operating system(Windows)
+4	RAM(Min 4GB)
+5	Hard Disk(Min 250GB)
+
+## LOWLEVEL REQUIREMENTS
+Low Level Reqiurements	Description	Status
+1	ON-Ignition key	Implemented
+2	Press Multi-functional button	Implemented
+3	4 Different Color Leds	Implemented
+4	Timer	Implemented
+5	OFF-Wiper button
+
+## SWOT ANALYSIS
+
+## STRENGTH
+. Low Budget
+. Reputation is Good
+
+## WEAKNESS
+. Structural interia
+. High transcation cost
+
+## OPPRONUNTIES
+. Emerging new market
+. Demand for save Equipments
+
+## Threat
+. Low bargaining power buyers
+. Econimical crisis
+
+
+
+
 
 

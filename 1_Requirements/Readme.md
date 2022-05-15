@@ -12,6 +12,8 @@ STM32F4O7VG MICROCONTROLLER BOARD
 
 ## DESCRIPTION
 
+## STM32F407VG
+
 The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded memories (Flash memory up to 1 Mbyte, up to 192 Kbytes of SRAM), up to 4 Kbytes of backup SRAM, and an extensive range of enhanced I/Os and peripherals connected to two APB buses, three AHB buses and a 32-bit multi-AHB bus matrix.All devices offer three 12-bit ADCs, two DACs, a low-power RTC, twelve general-purpose 16-bit timers including two PWM timers for motor control, two general-purpose 32-bit timers. a true random number generator (RNG). They also feature standard and advanced communication interfaces.
 
 ## FEATURES OF STM32F407VG MICROCONTROLLER
@@ -40,20 +42,11 @@ To keep the windscreen clean enough to give adequate view at all times.
 ## WHEN SHOULD USE WIPER SYSTEM
 The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 
-## High Level Requirements	Description
-1	Programming language(C language)
-2	Arm based microcontroller(STM32F40VGT6)
-3	operating system(Windows)
-4	RAM(Min 4GB)
-5	Hard Disk(Min 250GB)
+## HIGH LEVEL REQUIREMENTS DESCRIPTION
+1	Programming language(C language) 2	Arm based microcontroller(STM32F40VGT6) 3	operating system(Windows) 4	RAM(Min 4GB) 5	Hard Disk(Min 250GB)
 
-## LOWLEVEL REQUIREMENTS
-Low Level Reqiurements	Description
-1	ON-Ignition key	Implemented
-2	Press Multi-functional button	Implemented
-3	4 Different Color Leds	Implemented
-4	Timer	Implemented
-5	OFF-Wiper button
+## LOWLEVEL REQUIREMENTS DESCRIPTION
+1	ON-Ignition key	Implemented 2	Press Multi-functional button	Implemented 3	Different Color Leds	Implemented 4	Timer	Implemented 5	OFF-Wiper button
 
 ## SWOT ANALYSIS
 

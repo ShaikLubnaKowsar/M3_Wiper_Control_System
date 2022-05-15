@@ -43,17 +43,25 @@ To keep the windscreen clean enough to give adequate view at all times.
 The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 
 ## HIGH LEVEL REQUIREMENTS DESCRIPTION
-1	Programming language(C language) 
-2	Arm based microcontroller(STM32F40VGT6) 
-3	operating system(Windows) 
-4	RAM(Min 4GB) 
+1	Programming language(C language)
+
+2	Arm based microcontroller(STM32F40VGT6)
+
+3	operating system(Windows)
+
+4	RAM(Min 4GB)
+
 5	Hard Disk(Min 250GB)
 
 ## LOWLEVEL REQUIREMENTS DESCRIPTION
-1	ON-Ignition key	Implemented 
-2	Press Multi-functional button	Implemented 
-3	Different Color Leds	Implemented 
-4	Timer	Implemented 
+1	ON-Ignition key	Implemented
+
+2	Press Multi-functional button	Implemented
+
+3	Different Color Leds	Implemented
+
+4	Timer	Implemented
+
 5	OFF-Wiper button
 
 ## SWOT ANALYSIS

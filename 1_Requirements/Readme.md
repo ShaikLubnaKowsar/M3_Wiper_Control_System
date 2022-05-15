@@ -48,7 +48,7 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 5	Hard Disk(Min 250GB)
 
 ## LOWLEVEL REQUIREMENTS
-Low Level Reqiurements	Description	Status
+Low Level Reqiurements	Description
 1	ON-Ignition key	Implemented
 2	Press Multi-functional button	Implemented
 3	4 Different Color Leds	Implemented

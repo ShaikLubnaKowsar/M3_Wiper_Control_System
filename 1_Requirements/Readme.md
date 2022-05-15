@@ -74,7 +74,7 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 . Structural interia
 . High transcation cost
 
-## OPPRONUNTIES
+## OPPORTUNITIES
 . Emerging new market
 . Demand for save Equipments
 

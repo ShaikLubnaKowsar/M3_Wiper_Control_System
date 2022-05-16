@@ -77,8 +77,10 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 
 ## OPPORTUNITIES
 . Emerging new market.
+
 . Demand for save Equipments.
 
 ## Threat
 . Low bargaining power buyers.
+
 . Econimical crisis.

@@ -67,20 +67,20 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 ## SWOT ANALYSIS
 
 ## STRENGTH
-. Low Budget
-. Reputation is Good
+. Low Budget.
+. Reputation is Good.
 
 ## WEAKNESS
-. Structural interia
-. High transcation cost
+. Structural interia.
+. High transcation cost.
 
 ## OPPORTUNITIES
-. Emerging new market
-. Demand for save Equipments
+. Emerging new market.
+. Demand for save Equipments.
 
 ## Threat
-. Low bargaining power buyers
-. Econimical crisis
+. Low bargaining power buyers.
+. Econimical crisis.
 
 
 

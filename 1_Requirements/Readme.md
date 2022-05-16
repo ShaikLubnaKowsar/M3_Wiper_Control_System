@@ -68,18 +68,22 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 
 ## STRENGTH
 . Low Budget.
+
 . Reputation is Good.
 
 ## WEAKNESS
 . Structural interia.
+
 . High transcation cost.
 
 ## OPPORTUNITIES
 . Emerging new market.
+
 . Demand for save Equipments.
 
 ## Threat
 . Low bargaining power buyers.
+
 . Econimical crisis.
 
 

@@ -42,7 +42,7 @@ To keep the windscreen clean enough to give adequate view at all times.
 ## WHEN SHOULD USE WIPER SYSTEM
 The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 
-## HIGH LEVEL REQUIREMENTS DESCRIPTION
+## HIGH - LEVEL REQUIREMENTS DESCRIPTION
 1	Programming language(C language)
 
 2	Arm based microcontroller(STM32F40VGT6)
@@ -53,7 +53,7 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 
 5	Hard Disk(Min 250GB)
 
-## LOWLEVEL REQUIREMENTS DESCRIPTION
+## LOW - LEVEL REQUIREMENTS DESCRIPTION
 1	ON-Ignition key	Implemented
 
 2	Press Multi-functional button	Implemented
